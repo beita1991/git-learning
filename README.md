@@ -9,7 +9,7 @@
     | git push origin beita-dev | 提交时候绑定本地的一个版本库 | |
     | git push --set-upstream origin beita-dev | 提交代码没有关联线上库需要关联 | |
     | git  status | 查看本地库状态，了解那些是添加的那些是修改的文件 | | 
-    | git branch --set-upstream beita-dev origin/master | 将分支关联某一分支，并添加到线上git分支库 | |
+    | git branch --set-upstream beita-dev beita-dev | 将分支关联某一分支，并添加到线上git分支库 | |
      
 
 
